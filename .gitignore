@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+reports/inference_log.jsonl
+data/processed/*.csv
+deployment/model.pkl
+deployment/preprocessor.pkl
+deployment/registry/

@@ -1,0 +1,9 @@
+{
+  "file": "data/raw/online_retail.csv",
+  "source": "User-provided Online_Retail.csv",
+  "transformations": [
+    "remove cancellation invoices",
+    "remove invalid rows",
+    "aggregate lines by invoice"
+  ]
+}

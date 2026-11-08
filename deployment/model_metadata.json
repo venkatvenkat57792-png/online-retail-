@@ -1,0 +1,14 @@
+{
+  "problem": "invoice revenue regression",
+  "target": "invoice_revenue",
+  "features": [
+    "line_count",
+    "distinct_products",
+    "total_quantity",
+    "country"
+  ],
+  "currency": "GBP",
+  "training_rows": 19960,
+  "random_state": 42,
+  "model_version": "local-v1"
+}

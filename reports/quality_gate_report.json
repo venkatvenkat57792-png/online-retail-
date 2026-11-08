@@ -1,0 +1,8 @@
+{
+  "status": "passed_basic_checks",
+  "criteria": [
+    "non-empty validated invoices",
+    "finite evaluation metrics"
+  ],
+  "metrics_file": "evaluation_report.json"
+}

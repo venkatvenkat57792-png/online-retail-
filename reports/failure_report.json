@@ -1,0 +1,7 @@
+{
+  "known_cases": [
+    "missing columns",
+    "no valid invoices",
+    "missing model artifact"
+  ]
+}

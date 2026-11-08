@@ -1,0 +1,9 @@
+{
+  "source_file": "online_retail.csv",
+  "description": "Online Retail transaction lines",
+  "target": "invoice_revenue",
+  "aggregation": "sum(Quantity * UnitPrice) per non-cancelled invoice",
+  "encoding": "cp1252",
+  "invoice_count": 19960,
+  "note": "Count computed from the filtered invoice aggregates used in the model run."
+}

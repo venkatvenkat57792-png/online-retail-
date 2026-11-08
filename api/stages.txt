@@ -1,0 +1,6 @@
+1. Ingest and validate source transaction lines.
+2. Remove cancellation invoices and invalid rows.
+3. Aggregate valid lines into invoice-level features and revenue target.
+4. Fit and evaluate the sklearn regression pipeline.
+5. Load the serialized pipeline and metadata in the API.
+6. Validate prediction requests, return a GBP estimate, and log outcome and latency.

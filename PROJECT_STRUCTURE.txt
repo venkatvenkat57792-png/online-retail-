@@ -1,0 +1,12 @@
+online-retail-mlops/
+  api/                  FastAPI app, schemas, preprocessing, logging
+  data/raw/             Provided online_retail.csv and lineage
+  data/processed/       Derived invoice data and metadata
+  deployment/           Model and preprocessor artifacts (created by training)
+  docs/                 Architecture, runbook, lab notes
+  k8s/                  Kubernetes deployment/service examples
+  notebooks/            Starter notebooks
+  pipelines/             Pipeline entry points
+  reports/               Evaluation and lifecycle reports
+  src/                   Data preparation, validation, training, evaluation
+  tests/                 Starter API checks

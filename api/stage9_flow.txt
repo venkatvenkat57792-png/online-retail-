@@ -1,0 +1,1 @@
+Request ? Pydantic validation ? ordered feature DataFrame ? sklearn pipeline ? finite nonnegative GBP estimate ? response plus JSONL request, status, and latency event.

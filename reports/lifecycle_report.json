@@ -1,0 +1,4 @@
+{
+  "status": "ready_to_run",
+  "command": "python src/automate_lifecycle.py"
+}

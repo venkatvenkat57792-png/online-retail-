@@ -1,0 +1,6 @@
+path,purpose
+data/raw/online_retail.csv,Provided transaction dataset
+src/train.py,Training and artifact creation
+api/main.py,Prediction API
+reports/,Generated run reports
+deployment/,Serialized model artifacts

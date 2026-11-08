@@ -1,0 +1,9 @@
+project_name: online-retail-mlops
+random_state: 42
+data_path: data/raw/online_retail.csv
+artifacts_dir: deployment
+reports_dir: reports
+model:
+  target: invoice_revenue
+  test_size: 0.2
+  estimators: 250
